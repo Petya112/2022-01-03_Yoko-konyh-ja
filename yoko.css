@@ -119,11 +119,6 @@ header{
 	height: 200px;
 }
 
-aside{
-width: 230px;
-margin-left: 20px;
-
-}
 
 h1{
 font: bold;
@@ -138,3 +133,12 @@ h2{
 h3{	
 	font: bold;
 	}		
+
+#popular-recipes{
+	text-align: right;
+	width: 230px;
+}
+
+.acolor{
+	color: #de6581;
+}
